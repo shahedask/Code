@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="button1_txt">Give me happiness</string>
+    <string name="button2_txt">Clear Puppies</string>
+</resources>
